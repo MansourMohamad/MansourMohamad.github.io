@@ -5,7 +5,7 @@
 # Yet another theme for elegant writers with modern flat style and beautiful
 # night/dark mode.
 #
-# Website: https://github.com/jeffreytse/jekyll-theme-yat
+# Website: https://mansourmohamad.github.io/
 #
 # You can do anything you want, including projects for your clients, as long
 # as you mention an attribution back (credit links in footer or project).
@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Mohamad Mansour Website
+email: mhd.moayad.mansour@gmail.com
+author: Mohamad Mansour
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
